@@ -7,10 +7,6 @@ This project is dummy project. I wanted to learn through it how to create react 
 The easiest way to use my dummy package is to install it from npm and paste code into your React app.
 
 ```
-npm i blasko-cool-buttons
-```
-
-```
 import { CoolButton } from 'blasko-cool-buttons';
 ...
 const buttons = [
