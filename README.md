@@ -8,7 +8,7 @@ The easiest way to use my dummy package is to install it from npm and paste code
 
 ```
 npm i blasko-cool-buttons
-...
+```
 
 ```
 import { CoolButton } from 'blasko-cool-buttons';
